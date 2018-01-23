@@ -1,0 +1,15 @@
+{
+  "name": "strings",
+  "version": "1.0.0",
+  "description": "1) Reverse a String with and without recursion",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Ross Todd <rosstod@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^22.1.4"
+  }
+}
