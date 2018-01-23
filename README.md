@@ -4,7 +4,7 @@
 
 2) Check if string is palindrome
 
-3) Count occurrence of word in string Array
+3) Count occurrence of word in string
 
 4) Compute all permutation of string
 
